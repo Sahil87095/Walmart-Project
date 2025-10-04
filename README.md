@@ -17,14 +17,23 @@ Jupyter Notebook
 🗂️ Dataset:
 
 The dataset used is Walmart.csv, containing transaction-level data with the following key columns:
+
 invoice_id — Unique ID for each transaction
+
 branch — Store branch 
+
 city — Location of the branch
+
 category — Product category
+
 unit_price, quantity — Pricing and sales details
+
 payment_method — Payment type (e.g., Cash, Ewallet, Credit card)
+
 rating — Customer satisfaction rating
+
 profit margin
+
 date, time — Transaction date and time
 
 📊 Key Analyses & Insights:
