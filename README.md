@@ -7,11 +7,12 @@ This project analyzes Walmart’s sales data using Python and SQL to uncover key
 🧰 Tools & Technologies Used:
 
 Python 
-Libraries: numpy, pandas, sqlalchemy, pymysql
-MySQL for data storage and querying
-Jupyter Notebook 
 
-control
+Libraries: numpy, pandas, sqlalchemy, pymysql
+
+MySQL for data storage and querying
+
+Jupyter Notebook 
 
 🗂️ Dataset:
 
