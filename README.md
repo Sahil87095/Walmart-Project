@@ -1,9 +1,11 @@
 🛒 Walmart Sales Data Analysis
 
-📖 Overview
+📖 Overview:
+
 This project analyzes Walmart’s sales data using Python and SQL to uncover key business insights related to sales performance, customer behavior, and operational patterns across multiple branches.
 
-🧰 Tools & Technologies Used
+🧰 Tools & Technologies Used:
+
 Python 
 Libraries: numpy, pandas, sqlalchemy, pymysql
 MySQL for data storage and querying
@@ -11,7 +13,8 @@ Jupyter Notebook
 
 control
 
-🗂️ Dataset
+🗂️ Dataset:
+
 The dataset used is Walmart.csv, containing transaction-level data with the following key columns:
 invoice_id — Unique ID for each transaction
 branch — Store branch 
@@ -23,7 +26,8 @@ rating — Customer satisfaction rating
 profit margin
 date, time — Transaction date and time
 
-📊 Key Analyses & Insights
+📊 Key Analyses & Insights:
+
 1️⃣ Payment Method Analysis
 Found different payment methods used by customers.
 Determined the number of transactions and quantity sold by each payment method.
